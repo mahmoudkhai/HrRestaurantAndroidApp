@@ -7,7 +7,11 @@
 Ssp , Sdp , Coil.
 
 ### Project Video :
-[![Hr App](https://github.com/mahmoudkhai/HrRestaurantAndroidApp/assets/92611218/f1de5447-0d32-4628-a9d2-e11391e1d9c9)](https://www.youtube.com/watch?v=IBxh-VyplQg&feature=youtu.be)
+[App Video On Youtube](https://www.youtube.com/watch?v=IBxh-VyplQg&feature=youtu.be)
+
+#### Screen Shots:
 <div>
- <img src="https://github.com/mahmoudkhai/HrRestaurantAndroidApp/assets/92611218/f1de5447-0d32-4628-a9d2-e11391e1d9c9" width="400">
+ <img src="https://github.com/mahmoudkhai/HrRestaurantAndroidApp/assets/92611218/f1de5447-0d32-4628-a9d2-e11391e1d9c9" width="300" height="700">
+ <img src="https://github.com/mahmoudkhai/HrRestaurantAndroidApp/assets/92611218/bef89788-22af-4c3d-a574-ffed7ecd77e7" width="300" height="700">
+ <img src="https://github.com/mahmoudkhai/HrRestaurantAndroidApp/assets/92611218/86f9ea1b-251b-4e2b-8592-5635c19ac998" width="300" height="700">
 </div>
